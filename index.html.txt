@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ارتباط با ما</title>
+  <style>
+    body{
+      font-family:tahoma,arial;
+      background:linear-gradient(135deg,#667eea,#764ba2);
+      margin:0;
+      padding:0;
+    }
+    .card{
+      max-width:420px;
+      margin:60px auto;
+      background:#fff;
+      border-radius:18px;
+      padding:25px;
+      box-shadow:0 10px 30px rgba(0,0,0,.15);
+      text-align:center;
+    }
+    h1{
+      font-size:20px;
+      margin-bottom:20px;
+    }
+    a.btn{
+      display:block;
+      text-decoration:none;
+      padding:14px;
+      margin:12px 0;
+      border-radius:12px;
+      font-size:15px;
+      font-weight:bold;
+      color:#fff;
+      transition:.2s;
+    }
+    a.btn:hover{
+      transform:scale(1.03);
+    }
+    .eitaa{background:#00a884;}
+    .rubika{background:#ff1744;}
+    .instagram{background:#e1306c;}
+    .small{
+      font-size:12px;
+      color:#777;
+      margin-top:15px;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>یکی از گزینه‌ها را انتخاب کنید 👇</h1>
+
+    <a class="btn eitaa" href="https://eitaa.com/sadatmoosavi_rimove2317/" target="_blank">
+      ورود به ایتا
+    </a>
+
+    <a class="btn rubika" href="https://rubika.ir/s_m_90511/" target="_blank">
+      ورود به روبیکا
+    </a>
+
+    <a class="btn instagram" href="https://instagram.com/moosavi_remove" target="_blank">
+      ورود به اینستاگرام
+    </a>
+
+    <div class="small">
+      اگر صفحه‌ای باز نشد، اتصال اینترنت را بررسی کنید.
+    </div>
+  </div>
+</body>
+</html>
